@@ -32,8 +32,8 @@ I enjoy designing scalable systems and experimenting with performance optimizati
 
 ## 🚀 Activities
 - Google Machine Learning Bootcamp (2023.09 ~ 2023.11)
+- Samsung Electronics DX Algorithm Camp (2025.02)
 - Samsung SDS Algorithm Camp (2023.07 ~ 2023.08)
-- Samsung DX Algorithm Camp (2025.02)
 - Undergraduate Researcher @ Parallel Computing & LLM Lab (2024.01 ~ 2024.12)
 
 
